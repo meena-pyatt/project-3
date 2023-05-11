@@ -163,15 +163,6 @@
     },
 
     {
-      "name": "Satin Column Maxi Skirt",
-      "type": "skirt",
-      "color": "brown",
-      "image": "https://img.abercrombie.com/is/image/anf/KIC_143-3116-0057-466_model1?policy=product-large",
-      "price": "$70",
-      "sizes": ["extra small", "small", "medium", "large", "extra large"]
-    },
-
-    {
       "name": "Vegan Leather 90s Relaxed Pant",
       "type": "pants",
       "color": "black",
