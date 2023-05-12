@@ -10,6 +10,7 @@ const Navigation = () => {
         </a>
         <a href="#contact">Contact</a>
         <a href="#about">About</a>
+        <input type="text" placeholder="Search.."></input>
       </div>
     </div>
   )
