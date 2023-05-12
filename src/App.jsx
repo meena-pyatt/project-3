@@ -11,10 +11,10 @@ const App = () => {
       <div>
         <Navigation />
       </div>
-      <div>
-        <Sidebar />
-      </div>
       <main>
+        <div>
+          <Sidebar />
+        </div>
         {products.clothes.map((clothes, index) => (
           <Clothes clothes={clothes} key={clothes.name} />
         ))}

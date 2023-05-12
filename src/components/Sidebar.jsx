@@ -10,7 +10,7 @@ const Sidebar = () => {
       <a href="#">Shoes</a>
       <div></div>
       <a href="#">Clearance</a>
-      <div>
+      {/* <div>
         <div id="myBtnContainer">
           <button class="btn active" onclick="filterSelection('all')">
             {' '}
@@ -49,7 +49,7 @@ const Sidebar = () => {
           <div class="filterDiv fruits">Lemon</div>
           <div class="filterDiv animals">Cow</div>
         </div>
-      </div>
+      </div> */}
     </div>
   )
 }
