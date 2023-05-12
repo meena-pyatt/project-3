@@ -1,12 +1,16 @@
 const Navigation = () => {
   return (
-    <div className="topnav">
-      <a className="active" href="#womens">
-        Women's
+    <div class="header">
+      <a href="#default" class="logo">
+        CompanyLogo
       </a>
-      <a href="#mens">Men's</a>
-      <a href="#sale">Sale</a>
-      <h1>Clothing Store</h1>
+      <div class="header-right">
+        <a class="active" href="#home">
+          Home
+        </a>
+        <a href="#contact">Contact</a>
+        <a href="#about">About</a>
+      </div>
     </div>
   )
 }
