@@ -10,6 +10,59 @@ const Sidebar = () => {
       <a href="#">Shoes</a>
       <div></div>
       <a href="#">Clearance</a>
+
+      {/* <div>
+        <h6 className="p-1 border-bottom">Filter By</h6>
+        <p className="mb-2">Color</p>
+        <ul className="list-group">
+          <li className="list-group-item list-group-item-action mb-2 rounded">
+            <a href="#">
+              {' '}
+              <span class="fa fa-circle pr-1" id="red"></span>Red{' '}
+            </a>
+          </li>
+          <li className="list-group-item list-group-item-action mb-2 rounded">
+            <a href="#">
+              {' '}
+              <span class="fa fa-circle pr-1" id="teal"></span>Teal{' '}
+            </a>
+          </li>
+          <li className="list-group-item list-group-item-action mb-2 rounded">
+            <a href="#">
+              {' '}
+              <span class="fa fa-circle pr-1" id="blue"></span>Blue{' '}
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <h6>Type</h6>
+        <form className="ml-md-2">
+          <div className="form-inline border rounded p-sm-2 my-2">
+            {' '}
+            <input type="radio" name="type" id="boring"></input>{' '}
+            <label for="boring" className="pl-1 pt-sm-0 pt-1">
+              Boring
+            </label>{' '}
+          </div>
+          <div className="form-inline border rounded p-sm-2 my-2">
+            {' '}
+            <input type="radio" name="type" id="ugly">
+              {' '}
+            </input>{' '}
+            <label for="ugly" className="pl-1 pt-sm-0 pt-1">
+              Ugly
+            </label>{' '}
+          </div>
+          <div className="form-inline border rounded p-md-2 p-sm-1">
+            {' '}
+            <input type="radio" name="type" id="notugly"></input>{' '}
+            <label for="notugly" className="pl-1 pt-sm-0 pt-1">
+              Not Ugly
+            </label>{' '}
+          </div>
+        </form>
+      </div> */}
       {/* <div>
         <div id="myBtnContainer">
           <button class="btn active" onclick="filterSelection('all')">
