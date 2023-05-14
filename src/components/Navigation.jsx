@@ -4,7 +4,7 @@ const Navigation = () => {
       <a href="#default" class="logo">
         {/* CompanyLogo */}
       </a>
-
+      <img src="hangers.png" alt="" width="120px"></img>
       <div class="header-right">
         <a class="active" href="#home">
           Women's
