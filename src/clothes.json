@@ -232,6 +232,15 @@
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-2543-2393-300_model1?policy=product-large",
       "price": "$50",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
+    },
+
+    {
+      "name": "Short-Sleeve Peasant Top",
+      "type": "top",
+      "color": "white",
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_140-3039-0831-100_model1?policy=product-large",
+      "price": "$40",
+      "sizes": ["extra small", "small", "medium", "large", "extra large"]
     }
   ]
 }
