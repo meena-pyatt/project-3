@@ -7,18 +7,37 @@ const Footer = () => {
           <h2>Hanger's Clothing Store</h2>
           <ul>
             <h3>About Us</h3>
-            <li>Careers</li>
-            <li>Accessibility</li>
-            <li>Inclusion & Diversity</li>
+            <li>
+              <a href="#footer">Careers</a>
+            </li>
+            <li>
+              <a href="#footer">Accessibility</a>
+            </li>
+            <li>
+              <a href="#footer">Inclusion & Diversity</a>
+            </li>
             <li>Press Room</li>
           </ul>
           <ul>
             <h3>Help</h3>
-            <li>Customer Help</li>
-            <li>Order Help</li>
-            <li>Returns</li>
-            <li>Shipping</li>
+            <li>
+              <a href="#footer">Customer Help</a>
+            </li>
+            <li>
+              <a href="#footer">Order Help</a>
+            </li>
+            <li>
+              <a href="#footer">Returns</a>
+            </li>
+            <li>
+              <a href="#footer">Shipping</a>
+            </li>
           </ul>
+          <div class="newsletter">
+            <h3>Subscribe</h3>
+            <input type="text" placeholder="Email Address"></input>
+            <button>Join</button>
+          </div>
         </footer>
       </div>
     </div>

@@ -8,17 +8,15 @@ import Sidebar from './components/Sidebar'
 const App = () => {
   return (
     <div>
-      <div>
-        <Navigation />
-      </div>
-      <div>
+      <Navigation />
+      <div className="center">
         <Sidebar />
+        <main>
+          {products.clothes.map((clothes, index) => (
+            <Clothes clothes={clothes} key={clothes.name} />
+          ))}
+        </main>
       </div>
-      <main>
-        {products.clothes.map((clothes, index) => (
-          <Clothes clothes={clothes} key={clothes.name} />
-        ))}
-      </main>
       <footer>
         <Footer />
       </footer>
