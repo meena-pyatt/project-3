@@ -10,6 +10,7 @@ const Navigation = () => {
         <a href="#about">Sale</a>
         <input type="text" placeholder="Search.."></input>
       </div>
+      <i class="fa-solid fa-magnifying-glass"></i>
     </div>
   )
 }

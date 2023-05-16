@@ -9,6 +9,7 @@
 
 }
 
+
 .header input[type=text] {
   float: right;
   padding: 6px;
@@ -19,7 +20,6 @@
   font-size: 17px;
 }
 
-/* Style the header links */
 .header a {
   float: left;
   color: black;
@@ -28,33 +28,27 @@
   text-decoration: none;
   font-size: 18px;
   line-height: 25px;
-  /* border-radius: 4px; */
 }
-
 
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
 }
 
-/* Change the background color on mouse-over */
 .header a:hover {
   background-color: #ddd;
   color: black;
 }
 
-/* Style the active/current link*/
 .header a.active {
   background-color: #3B2E2D;
   color: white;
 }
 
-/* Float the link section to the right */
 .header-right {
   float: right;
   padding-right: 40px;
 }
-
 
 main {
   float: right;
@@ -75,16 +69,14 @@ main {
   box-sizing:content-box;
   margin: 10px;
   padding: 5px;
-  /* box-shadow: 3px 1px 10px 5px gainsboro; */
   width: 25vw;
   font-family: 'Jost';
   text-align: left;
-padding-bottom: 40px;
+  padding-bottom: 40px;
 }
 
 .clothes:hover {
   box-shadow: 3px 1px 10px 5px gainsboro;
-
 }
 
 .clothes > img {
@@ -98,14 +90,6 @@ max-width: 100%;
 
 }
 
-.text {
-  background-color: #04AA6D;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
-}
-
-
 footer {
   background-color: #f1f1f1;
   display: flex;
@@ -116,7 +100,6 @@ footer {
   padding: 40px;
   
 }
-
 
 .sidenav {
   width: 160px; 
@@ -137,51 +120,6 @@ footer {
   color:black;
 }
 
-.container {
-  overflow: hidden;
-}
-
-.filterDiv {
-  float: left;
-  background-color: #2196F3;
-  color: #ffffff;
-  width: 100px;
-  line-height: 100px;
-  text-align: center;
-  margin: 2px;
-  display: none; /* Hidden by default */
-}
-
-/* The "show" class is added to the filtered elements */
-.show {
-  display: block;
-}
-
-/* Style the buttons */
-.btn {
-  border: none;
-  outline: none;
-  padding: 12px 16px;
-  background-color: #f1f1f1;
-  cursor: pointer;
-}
-
-/* Add a light grey background on mouse-over */
-.btn:hover {
-  background-color: #ddd;
-}
-
-/* Add a dark background to the active button */
-.btn.active {
-  background-color: #666;
-  color: white;
-}
-
-input {
-  font-family: 'Jost';
-}
-
-
 .quickview {
   border: 1px solid gainsboro;
   padding: 3px 20px 3px 20px;
@@ -196,3 +134,8 @@ input {
   background-color: #f0f0f0;
 }
 
+
+li {
+
+  list-style-type: none
+}
