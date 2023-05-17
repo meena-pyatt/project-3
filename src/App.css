@@ -102,14 +102,15 @@ footer {
   color: #818181;
 }
 
-.sidenav a {
+.link {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 16px;
   display: block;
+  cursor: pointer
 }
 
-.sidenav a:hover {
+.link:hover {
   color: black;
 }
 

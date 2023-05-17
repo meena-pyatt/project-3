@@ -13,13 +13,18 @@ const App = () => {
   useEffect(() => {
     setProducts(data.clothes)
   }, [])
+
+  const changeSelection = (category) => {
+    setSelection(category)
+  }
+
   return (
     <div>
       <Navigation />
       <div className="center">
-        <Sidebar />
+        <Sidebar changeSelection={changeSelection} />
         <main>
-          {products.clothes.map((clothes, index) => (
+          {products.map((clothes, index) => (
             <Clothes clothes={clothes} key={clothes.name} />
           ))}
         </main>

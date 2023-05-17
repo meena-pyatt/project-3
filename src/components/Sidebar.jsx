@@ -1,16 +1,27 @@
-const Sidebar = () => {
+const Sidebar = (props) => {
   return (
     <div className="sidenav">
-      <a href="#">New Arrivals</a>
-      <a href="#">Tops</a>
-      <a href="#">Pants</a>
-      <a href="#">Skirts</a>
-      <a href="#">Dresses</a>
-      <a href="#">Outerwear</a>
-      <a href="#">Accessories</a>
-      <a href="#">Shoes</a>
-      <div></div>
-      <a href="#">Clearance</a>
+      <div
+        className="link"
+        onClick={() => props.changeSelection('New Arrivals')}
+      >
+        New Arrivals
+      </div>
+      <div className="link" onClick={() => props.changeSelection('Tops')}>
+        Tops
+      </div>
+      <div className="link" onClick={() => props.changeSelection('Pants')}>
+        Pants
+      </div>
+      <div className="link" onClick={() => props.changeSelection('Skirts')}>
+        Skirts
+      </div>
+      <div className="link" onClick={() => props.changeSelection('Dresses')}>
+        Dresses
+      </div>
+      <div className="link" onClick={() => props.changeSelection('Outerwear')}>
+        Outerwear
+      </div>
     </div>
   )
 }
