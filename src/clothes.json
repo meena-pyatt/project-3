@@ -12,7 +12,7 @@
     {
       "name": "Tiered Maxi Dress",
       "type": "Dresses",
-      "color": "pink",
+      "color": "#FF007F",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_159-3206-4464-630_model6?policy=product-large",
       "price": "$100",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]

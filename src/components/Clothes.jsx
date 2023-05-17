@@ -4,13 +4,16 @@ const Clothes = (props) => {
       <img src={props.clothes.image} alt="" id="photo" />
       <div className="clothes-info">
         <h5>
-          {props.clothes.color} <span className="dot"></span>
+          <span
+            className="dot"
+            style={{ backgroundColor: props.clothes.color }}
+          ></span>
         </h5>
         <h3>{props.clothes.name}</h3>
         <h4>{props.clothes.price}</h4>
-        <button class="quickview">
+        <button className="quickview">
           <span>quickview</span>
-          <i class="fa fa-shopping-cart"></i>
+          <i className="fa fa-shopping-cart"></i>
         </button>
       </div>
     </div>

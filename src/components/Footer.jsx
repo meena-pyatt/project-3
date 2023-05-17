@@ -33,7 +33,7 @@ const Footer = () => {
               <a href="#footer">Shipping</a>
             </li>
           </ul>
-          <div class="newsletter">
+          <div className="newsletter">
             <h3>Subscribe</h3>
             <input type="text" placeholder="Email Address"></input>
             <button>Join</button>

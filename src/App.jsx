@@ -8,14 +8,20 @@ import Sidebar from './components/Sidebar'
 
 const App = () => {
   const [products, setProducts] = useState([])
-  const [selection, setSelection] = useState(null)
 
   useEffect(() => {
     setProducts(data.clothes)
   }, [])
 
   const changeSelection = (category) => {
-    setSelection(category)
+    if (category === 'New Arrivals') {
+      setProducts(data.clothes)
+    } else {
+      let filteredProducts = data.clothes.filter((product) => {
+        return product.type === category
+      })
+      setProducts(filteredProducts)
+    }
   }
 
   return (
