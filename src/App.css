@@ -11,7 +11,6 @@
 
 
 .header input[type=text] {
-  float: right;
   padding: 6px;
   border: none;
   margin-top: 8px;
@@ -182,4 +181,9 @@ width: 100vw;
   border: 1.5px solid #bbb;
   border-radius: 50%;
   display: inline-block;
+}
+
+.search-button {
+  float: right;
+  padding-top: 15px;
 }

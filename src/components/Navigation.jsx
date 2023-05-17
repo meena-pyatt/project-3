@@ -12,7 +12,9 @@ const Navigation = () => {
         <a href="#contact">Men's</a>
         <a href="#about">Sale</a>
         <input type="text" placeholder="Search"></input>
-        <FontAwesomeIcon icon={faMagnifyingGlass} />
+        <div className="search-button">
+          <FontAwesomeIcon icon={faMagnifyingGlass} />
+        </div>
       </div>
     </div>
   )
