@@ -1,11 +1,18 @@
 import './App.css'
-import products from './clothes.json'
+import { useState, useEffect } from 'react'
+import data from './clothes.json'
 import Clothes from './components/Clothes'
 import Footer from './components/Footer'
 import Navigation from './components/Navigation'
 import Sidebar from './components/Sidebar'
 
 const App = () => {
+  const [products, setProducts] = useState([])
+  const [selection, setSelection] = useState(null)
+
+  useEffect(() => {
+    setProducts(data.clothes)
+  }, [])
   return (
     <div>
       <Navigation />

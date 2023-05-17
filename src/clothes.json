@@ -11,7 +11,7 @@
 
     {
       "name": "Tiered Maxi Dress",
-      "type": "dress",
+      "type": "Dresses",
       "color": "pink",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_159-3206-4464-630_model6?policy=product-large",
       "price": "$100",
@@ -20,7 +20,7 @@
 
     {
       "name": "Linen-Blend Top",
-      "type": "top",
+      "type": "Tops",
       "color": "pink",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-3296-1526-635_model1?policy=product-large",
       "price": "$40",
@@ -29,7 +29,7 @@
 
     {
       "name": "Classic Suiting Blazer",
-      "type": "outerwear",
+      "type": "Outerwear",
       "color": "brown",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_144-3083-0026-420_model1?policy=product-large",
       "price": "$100",
@@ -38,7 +38,7 @@
 
     {
       "name": "Seamless Crew Tank Bodysuit",
-      "type": "top",
+      "type": "Tops",
       "color": "white",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_139-2273-1193-100_model1?policy=product-large",
       "price": "$30",
@@ -47,7 +47,7 @@
 
     {
       "name": "Premium Tailored Pant",
-      "type": "pants",
+      "type": "Pants",
       "color": "black",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_156-2422-0803-900_life1?policy=product-large",
       "price": "$95",
@@ -56,7 +56,7 @@
 
     {
       "name": "Poplin Puff Sleeve Midi Dress",
-      "type": "dress",
+      "type": "Dresses",
       "color": "green",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_159-3205-4562-300_model1?policy=product-large",
       "price": "$110",
@@ -65,7 +65,7 @@
 
     {
       "name": "Traveler Mini Dress",
-      "type": "dress",
+      "type": "Dresses",
       "color": "black",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_159-1342-3503-900_model1?policy=product-large",
       "price": "$60",
@@ -74,7 +74,7 @@
 
     {
       "name": "High Rise 90s Relaxed Jean",
-      "type": "pants",
+      "type": "Pants",
       "color": "blue",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_155-2857-2950-278_model1?policy=product-large",
       "price": "$80",
@@ -83,7 +83,7 @@
 
     {
       "name": "Oversized Linen-Blend Shirt",
-      "type": "top",
+      "type": "Tops",
       "color": "white",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-3274-2496-100_model2?policy=product-large",
       "price": "$50",
@@ -92,7 +92,7 @@
 
     {
       "name": "High Rise 90s Straight Jean",
-      "type": "pants",
+      "type": "Pants",
       "color": "blue",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_155-1252-2632-280_model1?policy=product-large",
       "price": "$80",
@@ -101,7 +101,7 @@
 
     {
       "name": "Essential Baby Tee",
-      "type": "top",
+      "type": "Tops",
       "color": "grey",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_139-3193-1256-112_model1?policy=product-large",
       "price": "$20",
@@ -110,7 +110,7 @@
 
     {
       "name": "Satin Pleated Cutout Maxi Dress",
-      "type": "dress",
+      "type": "Dresses",
       "color": "green",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_159-2794-4273-320_model1?policy=product-large",
       "price": "$140",
@@ -119,7 +119,7 @@
 
     {
       "name": "Sweetheart Tank",
-      "type": "top",
+      "type": "Tops",
       "color": "black",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_139-3323-1385-900_model1?policy=product-large",
       "price": "$25",
@@ -128,7 +128,7 @@
 
     {
       "name": "Satin Cowl Neck Top",
-      "type": "top",
+      "type": "Tops",
       "color": "green",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-3398-1528-210_model1?policy=product-large",
       "price": "$40",
@@ -136,8 +136,8 @@
     },
 
     {
-      "name": "Belted Mini Skort",
-      "type": "skirt",
+      "name": "Belted Mini Skirt",
+      "type": "Skirts",
       "color": "blue",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_143-3106-0219-220_model3?policy=product-large",
       "price": "$60",
@@ -146,7 +146,7 @@
 
     {
       "name": "Angel Sleeve Twist-Front Top",
-      "type": "top",
+      "type": "Tops",
       "color": "pink",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-3337-0850-630_model1?policy=product-large",
       "price": "$50",
@@ -155,7 +155,7 @@
 
     {
       "name": "Satin Column Maxi Skirt",
-      "type": "skirt",
+      "type": "Skirts",
       "color": "brown",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_143-3116-0057-466_model1?policy=product-large",
       "price": "$70",
@@ -164,7 +164,7 @@
 
     {
       "name": "Vegan Leather 90s Relaxed Pant",
-      "type": "pants",
+      "type": "Pants",
       "color": "black",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_156-2311-0737-900_model1?policy=product-large",
       "price": "$100",
@@ -173,7 +173,7 @@
 
     {
       "name": "Seamless Fabric Tank Bodysuit",
-      "type": "top",
+      "type": "Tops",
       "color": "white",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_139-2742-1257-100_model5?policy=product-large",
       "price": "$30",
@@ -182,7 +182,7 @@
 
     {
       "name": "Sloane Tailored Pant",
-      "type": "pants",
+      "type": "Pants",
       "color": "grey",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_156-3089-0908-421_model1?policy=product-large",
       "price": "$85",
@@ -191,7 +191,7 @@
 
     {
       "name": "Puff Sleeve Ruched Top",
-      "type": "top",
+      "type": "Tops",
       "color": "green",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-3378-0845-331_model1?policy=product-large",
       "price": "$55",
@@ -200,7 +200,7 @@
 
     {
       "name": "Linen-Blend Blazer",
-      "type": "outerwear",
+      "type": "Outerwear",
       "color": "pink",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_144-3115-0049-635_model1?policy=product-large",
       "price": "$90",
@@ -209,7 +209,7 @@
 
     {
       "name": "Vegan Leather Pencil Midi Skirt",
-      "type": "skirt",
+      "type": "Skirts",
       "color": "black",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_143-3915-0099-900_model1?policy=product-large",
       "price": "$70",
@@ -218,7 +218,7 @@
 
     {
       "name": "One-Shoulder Satin Knotted Midi Dress",
-      "type": "dress",
+      "type": "Dresses",
       "color": "white",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_159-3240-4345-100_model1?policy=product-large",
       "price": "$120",
@@ -227,7 +227,7 @@
 
     {
       "name": "Oversized Poplin Button-Up Shirt",
-      "type": "top",
+      "type": "Tops",
       "color": "green",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-2543-2393-300_model1?policy=product-large",
       "price": "$50",
@@ -236,7 +236,7 @@
 
     {
       "name": "Short-Sleeve Peasant Top",
-      "type": "top",
+      "type": "Tops",
       "color": "white",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-3039-0831-100_model1?policy=product-large",
       "price": "$40",

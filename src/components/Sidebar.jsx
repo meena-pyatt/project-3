@@ -5,6 +5,7 @@ const Sidebar = () => {
       <a href="#">Tops</a>
       <a href="#">Pants</a>
       <a href="#">Skirts</a>
+      <a href="#">Dresses</a>
       <a href="#">Outerwear</a>
       <a href="#">Accessories</a>
       <a href="#">Shoes</a>
