@@ -1,3 +1,6 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons'
+
 const Navigation = () => {
   return (
     <div className="header">
@@ -9,7 +12,7 @@ const Navigation = () => {
         <a href="#contact">Men's</a>
         <a href="#about">Sale</a>
         <input type="text" placeholder="Search"></input>
-        <i className="fa-solid fa-magnifying-glass"></i>
+        <FontAwesomeIcon icon={faMagnifyingGlass} />
       </div>
     </div>
   )
