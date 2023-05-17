@@ -9,8 +9,8 @@ const Navigation = () => {
         <a href="#contact">Men's</a>
         <a href="#about">Sale</a>
         <input type="text" placeholder="Search.."></input>
+        <i class="fa-solid fa-magnifying-glass"></i>
       </div>
-      <i class="fa-solid fa-magnifying-glass"></i>
     </div>
   )
 }

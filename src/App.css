@@ -56,7 +56,8 @@ main {
   flex-wrap: wrap;
   justify-content: center;
   font-family: 'Jost';
-  margin-top: 15vh;
+  margin-top: 21vh;
+  padding-bottom: 60px;
 }
 
 .clothes {
@@ -80,24 +81,16 @@ main {
 
 .clothes > img {
 max-width: 100%;
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
-
 }
 
 footer {
   background-color: #f1f1f1;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: baseline;
   color:black;
   font-family: 'Jost';
   padding: 40px;
-  
 }
 
 .sidenav {
@@ -105,18 +98,18 @@ footer {
   padding-top: 150px;
   font-family: 'Jost';
   font-size: xx-small;
+  color: #818181;
 }
 
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 16px;
-  color: #818181;
   display: block;
 }
 
 .sidenav a:hover {
-  color:black;
+  color: black;
 }
 
 .quickview {
@@ -134,11 +127,11 @@ footer {
 }
 
 
-li {
+.footer li {
   list-style-type: none;
 }
 
-li a:link, a:visited, a:hover, a:active {
+.footer li a:link, a:visited, a:hover, a:active {
   color: inherit;
   text-decoration: none;
 }
@@ -175,4 +168,12 @@ display: flex;
 flex-direction: row;
 justify-content: space-between;
 width: 100vw;
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
 }
