@@ -1,3 +1,6 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faHeart } from '@fortawesome/free-solid-svg-icons'
+
 const Clothes = (props) => {
   return (
     <div className="clothes">
@@ -13,9 +16,11 @@ const Clothes = (props) => {
         <h4>{props.clothes.price}</h4>
         <button className="quickview">
           <span>quickview</span>
-          <i className="fa fa-shopping-cart"></i>
         </button>
       </div>
+      {/* <div className="favorite">
+        <FontAwesomeIcon icon={faHeart} />
+      </div> */}
     </div>
   )
 }

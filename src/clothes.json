@@ -12,7 +12,7 @@
     {
       "name": "Tiered Maxi Dress",
       "type": "Dresses",
-      "color": "#FF007F",
+      "color": "#c06ca3",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_159-3206-4464-630_model6?policy=product-large",
       "price": "$100",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -21,7 +21,7 @@
     {
       "name": "Linen-Blend Top",
       "type": "Tops",
-      "color": "pink",
+      "color": "#F04a6a",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-3296-1526-635_model1?policy=product-large",
       "price": "$40",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -30,7 +30,7 @@
     {
       "name": "Classic Suiting Blazer",
       "type": "Outerwear",
-      "color": "brown",
+      "color": "#d6b395",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_144-3083-0026-420_model1?policy=product-large",
       "price": "$100",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -57,7 +57,7 @@
     {
       "name": "Poplin Puff Sleeve Midi Dress",
       "type": "Dresses",
-      "color": "green",
+      "color": "#597e1d",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_159-3205-4562-300_model1?policy=product-large",
       "price": "$110",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -75,7 +75,7 @@
     {
       "name": "High Rise 90s Relaxed Jean",
       "type": "Pants",
-      "color": "blue",
+      "color": "#8697b0",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_155-2857-2950-278_model1?policy=product-large",
       "price": "$80",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -84,7 +84,7 @@
     {
       "name": "Oversized Linen-Blend Shirt",
       "type": "Tops",
-      "color": "white",
+      "color": "#efe2da",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-3274-2496-100_model2?policy=product-large",
       "price": "$50",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -93,7 +93,7 @@
     {
       "name": "High Rise 90s Straight Jean",
       "type": "Pants",
-      "color": "blue",
+      "color": "#949fa9",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_155-1252-2632-280_model1?policy=product-large",
       "price": "$80",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -102,7 +102,7 @@
     {
       "name": "Essential Baby Tee",
       "type": "Tops",
-      "color": "grey",
+      "color": "#e9e6e2",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_139-3193-1256-112_model1?policy=product-large",
       "price": "$20",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -111,7 +111,7 @@
     {
       "name": "Satin Pleated Cutout Maxi Dress",
       "type": "Dresses",
-      "color": "green",
+      "color": "#979b5e",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_159-2794-4273-320_model1?policy=product-large",
       "price": "$140",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -129,7 +129,7 @@
     {
       "name": "Satin Cowl Neck Top",
       "type": "Tops",
-      "color": "green",
+      "color": "#c3beb1",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-3398-1528-210_model1?policy=product-large",
       "price": "$40",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -138,7 +138,7 @@
     {
       "name": "Belted Mini Skirt",
       "type": "Skirts",
-      "color": "blue",
+      "color": "#cad7da",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_143-3106-0219-220_model3?policy=product-large",
       "price": "$60",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -147,7 +147,7 @@
     {
       "name": "Angel Sleeve Twist-Front Top",
       "type": "Tops",
-      "color": "pink",
+      "color": "#f94b89",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-3337-0850-630_model1?policy=product-large",
       "price": "$50",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -156,7 +156,7 @@
     {
       "name": "Satin Column Maxi Skirt",
       "type": "Skirts",
-      "color": "brown",
+      "color": "#623d47",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_143-3116-0057-466_model1?policy=product-large",
       "price": "$70",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -183,7 +183,7 @@
     {
       "name": "Sloane Tailored Pant",
       "type": "Pants",
-      "color": "grey",
+      "color": "#a3988b",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_156-3089-0908-421_model1?policy=product-large",
       "price": "$85",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -192,7 +192,7 @@
     {
       "name": "Puff Sleeve Ruched Top",
       "type": "Tops",
-      "color": "green",
+      "color": "#cac9b4",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-3378-0845-331_model1?policy=product-large",
       "price": "$55",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -201,7 +201,7 @@
     {
       "name": "Linen-Blend Blazer",
       "type": "Outerwear",
-      "color": "pink",
+      "color": "#ef6b83",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_144-3115-0049-635_model1?policy=product-large",
       "price": "$90",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]
@@ -228,7 +228,7 @@
     {
       "name": "Oversized Poplin Button-Up Shirt",
       "type": "Tops",
-      "color": "green",
+      "color": "#0d5b58",
       "image": "https://img.abercrombie.com/is/image/anf/KIC_140-2543-2393-300_model1?policy=product-large",
       "price": "$50",
       "sizes": ["extra small", "small", "medium", "large", "extra large"]

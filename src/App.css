@@ -74,6 +74,7 @@ main {
   font-family: 'Jost';
   text-align: left;
   padding-bottom: 40px;
+  cursor: pointer;
 }
 
 .clothes:hover {
@@ -121,6 +122,7 @@ footer {
   color: #767676;
   letter-spacing: 0.07rem;
   font-family: 'Jost';
+  cursor: pointer;
 }
 
 .quickview:hover {
@@ -186,4 +188,13 @@ width: 100vw;
 .search-button {
   float: right;
   padding-top: 15px;
+  cursor: pointer;
 }
+
+.search-button:hover {
+opacity: 50%;
+}
+
+/* .faHeart {
+opacity: 20%;
+} */

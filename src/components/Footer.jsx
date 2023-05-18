@@ -1,3 +1,5 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 const Footer = () => {
   return (
     <div className="footer">
@@ -16,7 +18,9 @@ const Footer = () => {
             <li>
               <a href="#footer">Inclusion & Diversity</a>
             </li>
-            <li>Press Room</li>
+            <li>
+              <a href="#footer">Press Room</a>
+            </li>
           </ul>
           <ul>
             <h3>Help</h3>
